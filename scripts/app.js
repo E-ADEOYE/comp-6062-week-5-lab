@@ -11,8 +11,6 @@ let a = parseFloat(prompt('Enter Number for a'));
 let b = parseFloat(prompt('Enter Number for b'));
 
 // Create your variables below this line
-a= 5;
-b = 6;
 
 // Step 2: Use equality and inequality operators to compare the variables.
 // Example: let isEqual;
